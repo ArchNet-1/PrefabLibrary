@@ -1,22 +1,23 @@
 {
   "name": "com.archnet.library.prefab",
-  "version": "1.0.0",
-  "displayName": "Arch Net Library Prefab",
-  "description": "Prefab Library is a link between Prefab and enum or integer.",
-  "unity": "2020.1",
-  "unityRelease": "0b5",
+  "version": "2.0.0",
+  "displayName": "ArchNet - Prefab Library",
+  "description": "Prefabs stored by enum or int key and spawned by key, so spawners and level data never hold prefab references directly.",
+  "unity": "6000.0",
+  "documentationUrl": "https://archnet-plateform.fr/#PrefabLibrary",
+  "changelogUrl": "https://github.com/ArchNet-1/PrefabLibrary/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ArchNet-1/PrefabLibrary/blob/main/LICENSE.md",
+  "dependencies": {
+    "com.archnet.library.core": "2.0.0"
+  },
   "keywords": [
-    "Arch",
-    "ArchNet",
-    "Library",
-    "Prefab",
-    "Custom"
+    "archnet",
+    "library",
+    "prefab"
   ],
   "author": {
-    "name": "Arch Net",
-    "email": "archnetmodule@gmail.com"
-  },
-     "dependencies": {
-    "com.unity.editorcoroutines": "1.0.0"
+    "name": "ArchNet",
+    "email": "archnetmodule@gmail.com",
+    "url": "https://archnet-plateform.fr"
   }
 }
