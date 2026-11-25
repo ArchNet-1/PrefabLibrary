@@ -4,6 +4,7 @@
   "displayName": "ArchNet - Prefab Library",
   "description": "Prefabs stored by enum or int key and spawned by key, so spawners and level data never hold prefab references directly.",
   "unity": "6000.0",
+  "license": "MIT",
   "documentationUrl": "https://archnet-plateform.fr/#PrefabLibrary",
   "changelogUrl": "https://github.com/ArchNet-1/PrefabLibrary/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/ArchNet-1/PrefabLibrary/blob/main/LICENSE.md",

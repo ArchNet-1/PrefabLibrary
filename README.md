@@ -29,4 +29,4 @@ GameObject goblin = _enemies.Spawn(Enemy.Goblin, spawnPoint.position, Quaternion
 
 ## License
 
-See [LICENSE.md](LICENSE.md).
+MIT, see [LICENSE.md](LICENSE.md).
